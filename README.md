@@ -7,7 +7,9 @@ Frontend: https://cal-clone-gamma.vercel.app
 Backend: https://cal-clone-y5yg.onrender.com
 
 Tech Stack:
+
 Layer        Technology
+
 Frontend   - Next.js 14, React 18, Tailwind CSS
 Backend    - Node.js, Express.js
 Database   - PostgreSQL
@@ -55,7 +57,9 @@ App starts at http://localhost:3000
 
 How to Use
 Admin Side no login required
-Page
+
+Page               URL
+
 Dashboard       - /dashboard
 Availability    - /availability
 Bookings        - /bookings
